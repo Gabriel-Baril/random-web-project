@@ -1,0 +1,26 @@
+  #left-box-link-3 {
+ 	background-color: #089000;
+ }
+
+ caption {
+ 	font-family: sans-serif;
+ }
+
+ .left-tab-title {
+ 	padding: 5px;
+ 	padding-right: 140px;
+ 	border: 1px solid rgba(200,200,200,0.5);
+ 	text-align: left;
+ }
+
+ .content-tab-cell {
+ 	border: 1px solid rgba(200,200,200,0.5);
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ 	font-family: sans-serif;
+ 	width: 100%;
+ }
+
+ .content-tab-row {
+ 	
+ }

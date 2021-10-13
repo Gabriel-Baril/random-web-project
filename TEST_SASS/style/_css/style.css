@@ -1,0 +1,18 @@
+div {
+  text-align: center;
+}
+div .data {
+  background-color: #FF0000;
+  margin-right: 5px;
+  margin-left: 5px;
+  width: 25px;
+  height: 367px;
+  overflow: scroll;
+}
+div .box {
+  width: 8vw;
+  height: 120px;
+  color: #FF0000;
+}
+
+/*# sourceMappingURL=style.css.map */

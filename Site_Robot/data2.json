@@ -1,0 +1,14 @@
+[
+	{
+		"points":[
+			{"name":"A","x":32,"y":40},
+			{"name":"B","x":12,"y":56},
+			{"name":"C","x":32,"y":40},
+			{"name":"D","x":12,"y":56}
+		]
+	},
+	{"signal":false,"distance": 4},
+	{"signal":true,"distance": 15},
+	{"name":"reject"},
+	{"name": 8,"sub_data": {"numero": 34,"avenue": "rue_lahaye"}}
+]

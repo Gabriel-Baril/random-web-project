@@ -1,0 +1,19 @@
+ $color: #FF0000;
+ $margin: 5px;
+
+ div {
+	text-align: center;
+	.data {
+		background-color: $color;
+		margin-right: $margin;
+		margin-left: $margin;
+		width: 25px;
+		height: 367px;
+		overflow: auto;
+	}
+  .box {
+    width: 8vw;
+    height: 120px;
+    color: $color;
+  }
+ }
